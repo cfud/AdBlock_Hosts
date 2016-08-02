@@ -32,6 +32,7 @@
 127.0.0.1	booking.com
 127.0.0.1	c.la2c2.salesforceliveagent.com
 127.0.0.1	carslite.ru
+127.0.0.1	cnt.promodj.com
 127.0.0.1	connect.ok.ru
 127.0.0.1	delicious.com
 127.0.0.1	disqus.com
@@ -41,6 +42,7 @@
 127.0.0.1	f12go.ru
 127.0.0.1	facebook-web-clients.appspot.com
 127.0.0.1	foursquare.com
+127.0.0.1	funkysocialtab.com
 127.0.0.1	game321.com
 127.0.0.1	gamesdrome.com
 127.0.0.1	gc.onliner.by
@@ -69,9 +71,11 @@
 127.0.0.1	ms.playpw.com
 127.0.0.1	my.clickdesk.com
 127.0.0.1	nick-name.ru
+127.0.0.1	new.vk.com
 127.0.0.1	odnoklassniki.ru
 127.0.0.1	ok.ru
 127.0.0.1	om.tribalwars2.com
+127.0.0.1	p92mygames.com
 127.0.0.1	paypalobjects.com
 127.0.0.1	pinterest.com
 127.0.0.1	piskomer.com
@@ -83,8 +87,12 @@
 127.0.0.1	realt.onliner.by
 127.0.0.1	rs.gwallet.com
 127.0.0.1	ru.foursquare.com
+127.0.0.1	ru.funkysocialtab.com
+127.0.0.1	ru.topsocialtab.com
 127.0.0.1	salesforceliveagent.com
+127.0.0.1	search.topsocialtabsearch.com
 127.0.0.1	secure-api.gravity.com
+127.0.0.1	secure.gravatar.com
 127.0.0.1	secure.livechatinc.com
 127.0.0.1	secure.skyscanner.net
 127.0.0.1	servedby.flashtalking.com
@@ -108,6 +116,8 @@
 127.0.0.1	suzuki-desperado.ru
 127.0.0.1	sinoptik.ua
 127.0.0.1	thebrowsergame.com
+127.0.0.1	topsocialtab.com
+127.0.0.1	topsocialtabsearch.com
 127.0.0.1	travelpayouts.com
 127.0.0.1	trendingpatrol.com
 127.0.0.1	tribalwars2.com
@@ -249,6 +259,7 @@
 127.0.0.1	24smi.net
 127.0.0.1	24smi.org
 127.0.0.1	adms.physorg.com
+127.0.0.1	ads.almasdarnews.com
 127.0.0.1	ads.kurir-info.rs
 127.0.0.1	ads.plos.org
 127.0.0.1	ads.timesmedia.co.za
@@ -293,6 +304,7 @@
 127.0.0.1	in.reuters.com
 127.0.0.1	js.smi2.ru
 127.0.0.1	lentaru.stat.eagleplatform.com
+127.0.0.1	livetracker.rfe.pangea-cms.com
 127.0.0.1	livetracker.voanews.eu
 127.0.0.1	mads.dailymail.co.uk
 127.0.0.1	merlin.abc.go.com
@@ -302,10 +314,12 @@
 127.0.0.1	multi.4smi.ru
 127.0.0.1	net.finam.ru
 127.0.0.1	new.img.24smi.net
+127.0.0.1	newsharecounts.com
 127.0.0.1	newsinc.com
 127.0.0.1	newz24.ru
 127.0.0.1	newzshop.sn00.net
 127.0.0.1	oas.theguardian.com
+127.0.0.1	omynews.net
 127.0.0.1	openx.cnews.ru
 127.0.0.1	ox-d.beforeitsnews.com
 127.0.0.1	ox-d.boston.servedbyopenx.com
@@ -319,6 +333,7 @@
 127.0.0.1	ox-d.philly.servedbyopenx.com
 127.0.0.1	ox-d.washingtonpost.servedbyopenx.com
 127.0.0.1	pangea-livetracker.rferl.org
+127.0.0.1	partner.lentainform.com
 127.0.0.1	pennwellcorp.112.2o7.net
 127.0.0.1	pixel.wp.com
 127.0.0.1	rose.ixbt.com
@@ -538,6 +553,7 @@
 127.0.0.1	forexbinarytrends.com
 127.0.0.1	fortuna-play.com
 127.0.0.1	fpazz.super-promo.liit.info
+127.0.0.1	ftvxds.info
 127.0.0.1	fxcommander.com
 127.0.0.1	getpocket.com
 127.0.0.1	giftshorse.xyz
@@ -562,10 +578,23 @@
 127.0.0.1	ivannikitin.com
 127.0.0.1	ixxx.com
 127.0.0.1	joycasino1.com
+127.0.0.1	joycasino10.com
+127.0.0.1	joycasino11.com
+127.0.0.1	joycasino12.com
+127.0.0.1	joycasino13.com
+127.0.0.1	joycasino14.com
+127.0.0.1	joycasino15.com
+127.0.0.1	joycasino2.com
+127.0.0.1	joycasino3.com
 127.0.0.1	joycasino4.com
+127.0.0.1	joycasino5.com
 127.0.0.1	joycasino6.com
+127.0.0.1	joycasino7.com
+127.0.0.1	joycasino8.com
+127.0.0.1	joycasino9.com
 127.0.0.1	joycasino.com
 127.0.0.1	joycasino.ru
+127.0.0.1	joycasino.vip
 127.0.0.1	koocoupon.com
 127.0.0.1	koramgame.com
 127.0.0.1	kzkeno.com
@@ -705,15 +734,18 @@
 127.0.0.1	aggregatorgetb.com
 127.0.0.1	all2lnk.com
 127.0.0.1	ampxchange.com
+127.0.0.1	api.trafficpals.ru
 127.0.0.1	awesomeredirector.com
 127.0.0.1	bbredir-ac-100.com
 127.0.0.1	bidverdrd.com
 127.0.0.1	brightonclick.com
+127.0.0.1	cashtrafic.info
 127.0.0.1	code.poptm.com
 127.0.0.1	ebocornac.com
 127.0.0.1	edomz.com
 127.0.0.1	ekod.info
 127.0.0.1	gettraff.com
+127.0.0.1	globaloffers.link
 127.0.0.1	go1.youlamedia.com
 127.0.0.1	go.deliverydom.com
 127.0.0.1	go.flx1.com
@@ -743,6 +775,7 @@
 127.0.0.1	mi3u.info
 127.0.0.1	mpredir-ac-101.com
 127.0.0.1	mxttrf.com
+127.0.0.1	mytraff.xyz
 127.0.0.1	npmpecd.com
 127.0.0.1	papuaz.link
 127.0.0.1	plsdrct2.me
@@ -853,10 +886,12 @@
 127.0.0.1	activemeter.com
 127.0.0.1	activity.spongecell.com
 127.0.0.1	addfreestats.com
+127.0.0.1	a.diretrak.com
 127.0.0.1	ads.trackitdown.net
 127.0.0.1	adt.pxl.ace.advertising.com
 127.0.0.1	afsanalytics.com
 127.0.0.1	aftership.com
+127.0.0.1	agtracker.net
 127.0.0.1	aihitdata.com
 127.0.0.1	a.intentmedia.net
 127.0.0.1	airage-reg.onecount.net
@@ -961,6 +996,7 @@
 127.0.0.1	count.carrierzone.com
 127.0.0.1	counted.com
 127.0.0.1	counter.24log.ru
+127.0.0.1	counter.maases.com
 127.0.0.1	counter.nn.ru
 127.0.0.1	counters.gigya.com
 127.0.0.1	counter.sudrf.ru
@@ -993,6 +1029,7 @@
 127.0.0.1	digitaltrends.com
 127.0.0.1	directtrack.com
 127.0.0.1	directtrk.com
+127.0.0.1	diretrak.com
 127.0.0.1	dis.criteo.com
 127.0.0.1	dmp.adblade.com
 127.0.0.1	dmpcounter.com
@@ -1142,6 +1179,7 @@
 127.0.0.1	morgdm.ru
 127.0.0.1	mousestats.com
 127.0.0.1	msmtrakk07a.com
+127.0.0.1	msmtrakk07b.com
 127.0.0.1	msparktrk.com
 127.0.0.1	mtrx.go.sonobi.com
 127.0.0.1	m.webtrends.com
@@ -1201,6 +1239,7 @@
 127.0.0.1	piwiklionshare.azurewebsites.net
 127.0.0.1	pix-00.tizerbank.com
 127.0.0.1	pixel.adblade.com
+127.0.0.1	pixel.probtn.com
 127.0.0.1	pixel.quantserve.com
 127.0.0.1	pixel.rubiconproject.com
 127.0.0.1	pixel.sitescout.com
@@ -1233,6 +1272,7 @@
 127.0.0.1	pxl2015x1.com
 127.0.0.1	px.media-serving.com
 127.0.0.1	px.owneriq.net
+127.0.0.1	qswotrk.com
 127.0.0.1	quantcount.com
 127.0.0.1	questionmarket.com
 127.0.0.1	quintelligence.com
@@ -1448,6 +1488,7 @@
 127.0.0.1	userreport.com
 127.0.0.1	uuidksinc.net
 127.0.0.1	veruta.com
+127.0.0.1	videostat.com
 127.0.0.1	virtual-host-discourse.global.ssl.fastly.net
 127.0.0.1	visiblemeasures.com
 127.0.0.1	visistat.com
@@ -1472,6 +1513,8 @@
 127.0.0.1	webtrends.com
 127.0.0.1	webtrendsdc.alcoa.com
 127.0.0.1	webtrendslive.com
+127.0.0.1	whiztags.com
+127.0.0.1	whiztags.wakdev.com
 127.0.0.1	widget.barnebys.com
 127.0.0.1	widget.intercom.io
 127.0.0.1	widget.perfectmarket.com
@@ -1485,10 +1528,12 @@
 127.0.0.1	www6.afsanalytics.com
 127.0.0.1	www7.afsanalytics.com
 127.0.0.1	www8.afsanalytics.com
+127.0.0.1	www9.afsanalytics.com
 127.0.0.1	www.acint.net
 127.0.0.1	www.audienceinsights.net
 127.0.0.1	www.dsply.com
 127.0.0.1	www.fwmrm.net
+127.0.0.1	www.i.matheranalytics.com
 127.0.0.1	www.morgdm.ru
 127.0.0.1	www.omnitagjs.com
 127.0.0.1	www.onecount.net
@@ -1513,6 +1558,7 @@
 127.0.0.1	addthisedge.com
 127.0.0.1	admin.obtainmagno.com
 127.0.0.1	all.ovel.info
+127.0.0.1	alwaysnewupdatesforeveryone2016.download
 127.0.0.1	ampedi.ru
 127.0.0.1	antibotsystem.com
 127.0.0.1	appnxus.net
@@ -1577,6 +1623,7 @@
 127.0.0.1	gexperiments2.com
 127.0.0.1	gexperiments3.com
 127.0.0.1	gr2hk6ze.com
+127.0.0.1	gsc2.ubrwxubrwx.xyz
 127.0.0.1	hnbutton.appspot.com
 127.0.0.1	http.com
 127.0.0.1	httpool.com
@@ -1610,6 +1657,7 @@
 127.0.0.1	ocdn01.media2play.com
 127.0.0.1	ocdn01.safe-update.net
 127.0.0.1	online.nowtestpc.top
+127.0.0.1	onlineupgrade.alwaysnewupdatesforeveryone2016.download
 127.0.0.1	optimuminstaller.com
 127.0.0.1	pauluskp.com
 127.0.0.1	pcspeeduppro.com
@@ -1664,6 +1712,7 @@
 127.0.0.1	theupgradelive.com
 127.0.0.1	topshape.me
 127.0.0.1	u77kzz.promorewards.gaes.info
+127.0.0.1	ubrwxubrwx.xyz
 127.0.0.1	ultifiletur.com
 127.0.0.1	update4soft.theupgradelive.com
 127.0.0.1	upgradelive.soft4support.online
@@ -1883,6 +1932,7 @@
 127.0.0.1	adnetworkperformance.com
 127.0.0.1	adnetwork.pro
 127.0.0.1	adnext.fr
+127.0.0.1	adnext.net
 127.0.0.1	adnium.com
 127.0.0.1	adnow.com
 127.0.0.1	adnxs.com
@@ -2052,6 +2102,7 @@
 127.0.0.1	adstract.adk2x.com
 127.0.0.1	adstract.com
 127.0.0.1	ads.tradefx.com
+127.0.0.1	ads.traffichunt.com
 127.0.0.1	ads.trafficjunky.net
 127.0.0.1	ads.tw.adsonar.com
 127.0.0.1	adsua.com
@@ -2188,6 +2239,7 @@
 127.0.0.1	banerator.net
 127.0.0.1	bannerbank.net
 127.0.0.1	bannerflow.com
+127.0.0.1	banner.hpmdnetwork.ru
 127.0.0.1	bannerka.ua
 127.0.0.1	banner.kiev.ua
 127.0.0.1	banner.profile.ru
@@ -2200,6 +2252,7 @@
 127.0.0.1	beanstock.com
 127.0.0.1	begun.ru
 127.0.0.1	behance.net
+127.0.0.1	beonpush.com	
 127.0.0.1	bestadbid.com
 127.0.0.1	betaffs.com
 127.0.0.1	betrad.com
@@ -2304,6 +2357,7 @@
 127.0.0.1	cdnme.se
 127.0.0.1	cdn.onedmp.com
 127.0.0.1	cdn.pcrichard.com
+127.0.0.1	cdn.probtn.com
 127.0.0.1	cdn.quilt.janrain.com
 127.0.0.1	cdns.gigya.com
 127.0.0.1	cdn.taboola.com
@@ -2348,10 +2402,12 @@
 127.0.0.1	clkrev.com
 127.0.0.1	clktag.com
 127.0.0.1	clk.tradedoubler.com
+127.0.0.1	cloud.cashtrafic.info
 127.0.0.1	cloud.highcharts.com
 127.0.0.1	cmap.ox.ace.advertising.com
 127.0.0.1	cmehome.ru
 127.0.0.1	cmllk2.info
+127.0.0.1	cms-skin.com
 127.0.0.1	cmsadmin30.convio.net
 127.0.0.1	cnd.gingermedia.com
 127.0.0.1	code.rtbsystem.com
@@ -2499,6 +2555,7 @@
 127.0.0.1	engine.adselector.ru
 127.0.0.1	engine.adspynet.com
 127.0.0.1	engine.adsupply.com
+127.0.0.1	engine.adtidy.net
 127.0.0.1	engine.adzerk.net
 127.0.0.1	engine.bitmedianetwork.com
 127.0.0.1	engine.fishki.net
@@ -2579,6 +2636,7 @@
 127.0.0.1	genesismedia.com
 127.0.0.1	geniusbanner.com
 127.0.0.1	genzoclicks.go2cloud.org
+127.0.0.1	get-my-ads.com
 127.0.0.1	getmyads24.com
 127.0.0.1	getmyads.com
 127.0.0.1	getraff.com
@@ -2871,6 +2929,7 @@
 127.0.0.1	n52adshostnet.com
 127.0.0.1	n53adshostnet.com
 127.0.0.1	nafigate.com
+127.0.0.1	nanoadexchange.com
 127.0.0.1	narrowcastmedia.com
 127.0.0.1	nativad.net
 127.0.0.1	nbcudigitaladops.com
@@ -2888,6 +2947,7 @@
 127.0.0.1	nic.osqbk.com
 127.0.0.1	nic.yhake.xyz
 127.0.0.1	nic.zxrtn.com
+127.0.0.1	nimigal.ru
 127.0.0.1	nl12.ero-advertising.com
 127.0.0.1	nnn.ru
 127.0.0.1	n.pc2ads.ru
@@ -3098,6 +3158,7 @@
 127.0.0.1	rtbget.com
 127.0.0.1	rtb.gumgum.com
 127.0.0.1	rtbidder.net
+127.0.0.1	rtbmedia.org
 127.0.0.1	rtbnexus.com
 127.0.0.1	rtb.rtcdn.ru
 127.0.0.1	rtbsystem.com
@@ -3334,7 +3395,6 @@
 127.0.0.1	ultimedia.com
 127.0.0.1	umi.ru
 127.0.0.1	undertone.com
-127.0.0.1	upmediagroup.com
 127.0.0.1	uptolike.com
 127.0.0.1	us-u.openx.net
 127.0.0.1	utarget.ru
@@ -3418,11 +3478,13 @@
 127.0.0.1	wtp101.com
 127.0.0.1	wunderloop.net
 127.0.0.1	w.uptolike.com
+127.0.0.1	www.adcash.com
 127.0.0.1	www.adriver.ru
 127.0.0.1	www.adsniper.ru
 127.0.0.1	www.adtidy.net
 127.0.0.1	www.basebanner.com
 127.0.0.1	www.chokoladsrv.net
+127.0.0.1	www.directadvert.net
 127.0.0.1	www.e2.medianetworks.ru
 127.0.0.1	www.instinctiveads.com
 127.0.0.1	www.ishop.rs
@@ -3435,6 +3497,7 @@
 127.0.0.1	www.smartlinks.dianomi.com
 127.0.0.1	www.tradeadexchange.com
 127.0.0.1	www.xmediaserve.com
+127.0.0.1	www.youradexchange.com
 127.0.0.1	xadsales.com
 127.0.0.1	xapi.juicyads.com
 127.0.0.1	x.bidswitch.net
